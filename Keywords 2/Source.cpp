@@ -52,7 +52,7 @@ int main()
 		words.push_back("SADNESS");
 		words.push_back("DISAPPEAR");
 		words.push_back("NIGHT");
-	 
+	
 	//This is for the play again loop
     do 
 	{ 
