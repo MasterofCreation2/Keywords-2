@@ -47,7 +47,7 @@ int main()
 		words.push_back("CHEATING");
 		words.push_back("FORGIVEN");
 		words.push_back("BLINDED");
-		words.push_back("LYING");
+		words.push_back("LYING"); 
 		words.push_back("CRYING");
 		words.push_back("SADNESS");
 		words.push_back("DISAPPEAR");
